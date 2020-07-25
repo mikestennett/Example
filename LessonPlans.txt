@@ -1,0 +1,6 @@
+
+Possible Lessons
+ * Review pointer ref value
+ * Call function by pointer, call method by pointer, print out function and method addresses
+ * Virtual vs Non Virtual
+ *
